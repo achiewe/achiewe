@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm achi mamukashvili</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
 
-<img align ="right" alt ="coding" width="400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3079099-Coding-coding-coding&psig=AOvVaw2zkJ1ePf5b3E_RAJkKO2eI&ust=1682621001933000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDb_OqZyP4CFQAAAAAdAAAAABAF"> 
+<img align ="right" alt ="coding" width="400" src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achiewe" alt="achiewe" /></a> </p>
 
