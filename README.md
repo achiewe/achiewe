@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achiewe" alt="achiewe" /></a> </p>
 
-<img align ="right" style="margin-left: 20px;" alt ="coding" width="400" src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"> 
+<img align ="right" style="margin-left: 20px;"  alt ="coding" width="350" src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"> 
 
 - 🌱 I’m currently learning **bitcamp**
 
