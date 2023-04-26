@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm achi mamukashvili</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
 
-<img align ="right" alt ="coding" width="400" src = "https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"> 
+<img align ="right" alt ="coding" width="400" src = "https://www.google.com/search?q=animated+coding+gif&sxsrf=APwXEdeVCShA1MRNlKHsp0Z_QAVdqTYy9w:1682533134935&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjwktKulMj-AhVRP-wKHRaaAIEQ_AUoAXoECAEQAw&biw=1856&bih=980&dpr=1#imgrc=ITaGGdoGDaxxhM"> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achiewe" alt="achiewe" /></a> </p>
 
