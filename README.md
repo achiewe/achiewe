@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm achi mamukashvili</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
 
-<img align ="right" alt ="coding" width="400" src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"> 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achiewe" alt="achiewe" /></a> </p>
+
+<img align ="right" alt ="coding" width="400" src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"> 
 
 - 🌱 I’m currently learning **bitcamp**
 
