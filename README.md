@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm achi mamukashvili</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
 
-<img align ="right" alt ="coding" width="400" src = "![image](https://user-images.githubusercontent.com/123068696/234671509-1c5e735a-6af4-41a9-9f18-7d89d1c9f191.png)
-"> 
+<img align ="right" alt ="coding" width="400" src = "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achiewe" alt="achiewe" /></a> </p>
 
