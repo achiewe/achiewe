@@ -5,11 +5,11 @@
 
 <img align ="right" style="margin-left: 20px;"  alt ="coding" width="350" src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"> 
 
-- 🌱 I’m currently learning **bitcamp**
+- 🌱 I’m currently work **Digital Institute** and **Osint For Ukraine**
 
 - 👨‍💻 All of my projects are available at [https://github.com/achiewe?tab=repositories](https://github.com/achiewe?tab=repositories)
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **react, javascript, node.js**
 
 - 📫 How to reach me **mamukashviliachi706@gmail.com**
 
