@@ -27,19 +27,19 @@
     </a>
   </p>
 
-  <p align="center">
+  <p align="start">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=achiewe&theme=github_dark" alt="Repositories per Language"/>
   </p>
 
-  <p align="center">
+  <p align="end">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=achiewe&theme=github_dark" alt="Most Committed Language"/>
   </p>
 
-  <p align="center">
+  <p align="start">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=achiewe&theme=github_dark" alt="GitHub Stats"/>
   </p>
 
-  <p align="center">
+  <p align="end">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=achiewe&theme=github_dark&utcOffset=8" alt="Productive Time"/>
   </p>
 
