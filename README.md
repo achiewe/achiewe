@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/achiewe">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=achiewe&theme=radical&utcOffset={utcOffset}" alt="Achi Mamukashvili's GitHub Contribution"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=achiewe&theme=radical&utcOffset=+5.00" alt="Achi Mamukashvili's GitHub Contribution"/>
   </a>
 </p>
 
