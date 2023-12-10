@@ -1,4 +1,4 @@
-<div style=backgroun-color:"red">
+<div style="background-color: black">
 
 <h1 align="center">Hi 👋, I'm achi mamukashvili</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
