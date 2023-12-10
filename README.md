@@ -27,7 +27,7 @@
 </p>
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achiewe&show_icons=true&theme=merko&locale=en&layout=compact" alt="achiewe" /></p>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=achiewe&theme=github_dark&exclude=Cycript"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achiewe&show_icons=true&theme=merko&locale=en" alt="achiewe" /></p>
 
