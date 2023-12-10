@@ -26,11 +26,11 @@
   </a>
 </p>
 
-<div align="center">
+
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=achiewe&theme=github_dark&exclude=Cycript"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achiewe&show_icons=true&theme=merko&locale=en" alt="achiewe" /></p>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=achiewe&theme=github_dark&exclude=Cycript"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achiewe&theme=dark" alt="achiewe" /></p>
-</div>
+
 
