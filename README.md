@@ -44,7 +44,5 @@
   </span>
 </div>
 
-<a href="https://github.com/nqbill">
-<img src="https://raw.githubusercontent.com/nqbill/nqbill/d789ec981b133425f62eb0259d589d92f8b19ce1/src/img/snake.svg" width="1000"/> <br> <br>
-<img src="https://readme-typing-svg.herokuapp.com?color=%23363636&size=35&duration=7000&center=true&vCenter=true&width=1000&lines=This+page+is+best+viewed+with+dark+mode+off" width="60%" />
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
